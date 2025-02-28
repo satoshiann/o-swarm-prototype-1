@@ -10,4 +10,4 @@ O-Swarm is a multi-agent AI framework that enables dynamic task delegation, stru
 
 Built for AI developers, automation enthusiasts, and researchers who want to create structured, autonomous agent workflows.
 
-More sooon.
+More coming soon.
